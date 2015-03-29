@@ -64,10 +64,11 @@
     text-align: center;
 }
 
-.site-footer__subscribe {
+.site-footer__copy {
     p {
         line-height: $spacing-unit;
         margin-bottom: 0;
+        color: $grey-color;
     }
 }
 
