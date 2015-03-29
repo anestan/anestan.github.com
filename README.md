@@ -1,6 +1,6 @@
 # A blog
 
-This is where anestan writes her stuff and messes around every once in a while. 
+This is where anestan writes and messes around every once in a while.
 
 ## License
 
