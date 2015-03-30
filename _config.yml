@@ -5,9 +5,10 @@ email: anes.tan@gmail.com
 description: Personal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anestan.github.com" # the base hostname & protocol for your site
+permalink: pretty
 twitter_username: blockyeleven
 github_username:  anestan
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+
