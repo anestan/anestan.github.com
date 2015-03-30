@@ -110,10 +110,6 @@
         border-bottom: 3px dotted $grey-color-light;
         margin-bottom: $spacing-unit;
         padding-bottom: 21px; //total 24 px - $spacing-unit
-
-        &:last-child {
-            border-bottom: none;
-        }
     }
 
     h2 {
