@@ -16,7 +16,7 @@ But I repeat again an again. :(
 “Procrastination is my sin. It brings me naught but sorrow. I know that I should stop it. In fact, I will--tomorrow”
 ― Gloria Pitzer
 
-I hope, I can change myself to be more productive and get things done.
+I hope, I can change to be productive and get things done.
 
 “Change, like healing, takes time.”
 ― Veronica Roth, Allegiant
